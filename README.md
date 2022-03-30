@@ -1,5 +1,8 @@
 ### Hi there 👋
+I love coding 💓
 
+### About Me
+- Blog: [My Github Blog](https://parksemo.github.io/profile/#!)
 <!--
 **Parksemo/Parksemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
