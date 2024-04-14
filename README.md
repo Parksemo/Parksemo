@@ -1,9 +1,3 @@
-### Hi there 👋
-I love coding 💓
-
-### About Me
-- Blog: [My Github Blog](https://parksemo.github.io/profile/#!)
-
 ---
 [![Parksemo's github stats](https://github-readme-stats.vercel.app/api?username=Parksemo)](https://github.com/anuraghazra/github-readme-stats)
 
